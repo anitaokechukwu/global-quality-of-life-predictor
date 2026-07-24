@@ -1,0 +1,1 @@
+# global-quality-of-life-predictor

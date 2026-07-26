@@ -1,7 +1,6 @@
 import streamlit as st
-import joblib 
 import pandas as pd
-
+import skops.io as sio
 
 # -----------------------------
 # Page Configuration
@@ -20,13 +19,13 @@ st.set_page_config(
 
 @st.cache_resource
 def load_model():
-    return joblib.load(
-        "models/quality_of_life_model.pkl"
+    return sio.load(
+        "models/quality_of_life_model.skops",
+        trusted=[]
     )
 
 
 model = load_model()
-
 
 # -----------------------------
 # Application Title

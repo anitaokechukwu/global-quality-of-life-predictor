@@ -252,7 +252,7 @@ Registered Midwife | Healthcare Data Analyst | Machine Learning Enthusiast
 
 - LinkedIn: *(https://www.linkedin.com/in/okechukwu-anita/)*
 - GitHub: *(https://github.com/anitaokechukwu?tab=repositories)*
-
+* 🌐 Portfolio: *(https://anitaokechukwu.github.io/)*
 ---
 
 # ⭐ Support

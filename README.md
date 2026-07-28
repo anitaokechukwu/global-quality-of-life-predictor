@@ -53,6 +53,13 @@ This project aims to estimate a country's Quality of Life score using Machine Le
 
 # 📊 Dataset
 
+The dataset used in this project is publicly available.
+
+**Source:** global Quality of Life  Dataset (Kaggle)
+
+🔗 https://www.kaggle.com/datasets/...
+
+
 The dataset contains global Quality of Life indicators for countries around the world.
 
 ### Features Used
